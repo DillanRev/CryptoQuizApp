@@ -1,7 +1,7 @@
 
   # AI Cryptography Quiz Game
 
-  This is a code bundle for AI Cryptography Quiz Game. The original project is available at https://www.figma.com/design/4ztUHAQWgIPjm1tORWGdpp/AI-Cryptography-Quiz-Game.
+https://crypto-quiz-9h8uia8wn-dillanrevs-projects.vercel.app/
 
   ## Running the code
 
